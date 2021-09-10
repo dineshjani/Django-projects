@@ -1,3 +1,5 @@
 sky
 yello
 green
+water
+pani
