@@ -3,10 +3,8 @@ yello
 green
 water
 pani
-<<<<<<< HEAD
 water
 pani
-=======
->>>>>>> feature
 try
 again
+check2
